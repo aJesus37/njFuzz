@@ -1,0 +1,19 @@
+{
+  "name": "nojfuzz",
+  "version": "0.1.0",
+  "description": "A web fuzzer made in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fuzzing",
+    "pentest"
+  ],
+  "author": "aJesus37",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "readline-sync": "^1.4.10"
+  }
+}
